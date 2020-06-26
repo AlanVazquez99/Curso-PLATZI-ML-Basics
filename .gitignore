@@ -190,5 +190,7 @@ $RECYCLE.BIN/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-Fundamentos/3\ Redes\ Neuronales/cifar-10-batches-py/
-Fundamentos/3\ Redes\ Neuronales/cifar-10-python.tar.gz
+1\ Fundamentos/1\ Pytorch/pytorch_tensor
+1\ Fundamentos/3\ Redes\ Neuronales/cifar-10-batches-py/
+1\ Fundamentos/3\ Redes\ Neuronales/cifar-10-python.tar.gz
+1\ Fundamentos/3\ Redes\ Neuronales/labels.txt
